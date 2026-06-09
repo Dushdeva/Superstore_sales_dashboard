@@ -135,4 +135,4 @@ Opens at **http://localhost:8501**
 
 ---
 
-*Built by [Devang Yadav](https://github.com/Dushdeva) — B.Tech CSE (AI), SKIT Jaipur*
+*Built by [Devang Yadav](https://github.com/Dushdeva)*
